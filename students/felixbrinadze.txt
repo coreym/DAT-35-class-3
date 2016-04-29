@@ -1,3 +1,4 @@
-Felix Brinadze
-pizza
-Las Vegas
+First Name: Felix
+Last Name: Brinadze
+Favorite Food: Pizza
+Place to go for a free trip: Las Vegas
